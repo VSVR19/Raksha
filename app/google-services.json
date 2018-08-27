@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "754815020833",
+    "firebase_url": "https://rakshastage.firebaseio.com",
+    "project_id": "rakshastage",
+    "storage_bucket": "rakshastage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754815020833:android:242e15d0b34b126f",
+        "android_client_info": {
+          "package_name": "com.vsvr.raksha.raksha_stage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754815020833-5peekk88heo79rrh5s7seqdft6u3gq7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vsvr.raksha.raksha_stage",
+            "certificate_hash": "53e82167955895822af2c618b5100113adbe71d4"
+          }
+        },
+        {
+          "client_id": "754815020833-grmqb7r4g5g9vja5ihphqarg3quaa80p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKj68Xy2zYh82FO87MjYHldUqE70OJj2U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754815020833-grmqb7r4g5g9vja5ihphqarg3quaa80p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
